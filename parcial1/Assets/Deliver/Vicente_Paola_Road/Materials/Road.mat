@@ -7,8 +7,8 @@ Material:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: island
-  m_Shader: {fileID: 4800000, guid: acbefab8811735d43b3d4fcfa966c091, type: 3}
+  m_Name: Road
+  m_Shader: {fileID: 4800000, guid: 06b1cc83569579a4e8a785a36849256b, type: 3}
   m_ValidKeywords: []
   m_InvalidKeywords: []
   m_LightmapFlags: 4
@@ -20,24 +20,25 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - _colortexture:
-        m_Texture: {fileID: 2800000, guid: a04e65ea8642ed34bac4bb2083b6d830, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
-    - _heighttexture:
-        m_Texture: {fileID: 2800000, guid: 427d0548a86e08c459e82bb7b189c695, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
     - _texcoord:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     m_Ints: []
     m_Floats:
-    - _EdgeLength: 15
-    - _TessPhongStrength: 0.685
-    - __dirty: 1
-    - _maxHeight: 50
-    - _tessFactor: 5.4
-    m_Colors: []
+    - __dirty: 0
+    - _brickHeight: 0.25
+    - _detailScale: 25
+    - _detailStrength: 0.162
+    - _noiseScale: 13.8
+    - _normalStrength: 20
+    - _rockHeigth: 8
+    - _rockIrregularity: 0.15
+    - _rockNoiseScale: 35
+    - _rockScale: 46
+    m_Colors:
+    - _brickTiling: {r: 50, g: 50, b: 0, a: 0}
+    - _colordark: {r: 0.16, g: 0.11, b: 0.07, a: 1}
+    - _colorlight: {r: 0.38, g: 0.28, b: 0.18, a: 1}
+    - _rockColor: {r: 0.254717, g: 0.254717, b: 0.254717, a: 0}
   m_BuildTextureStacks: []

@@ -36,7 +36,7 @@ Material:
     m_Floats:
     - _EdgeLength: 15
     - _TessPhongStrength: 0.685
-    - __dirty: 1
+    - __dirty: 0
     - _maxHeight: 50
     - _tessFactor: 5.4
     m_Colors: []

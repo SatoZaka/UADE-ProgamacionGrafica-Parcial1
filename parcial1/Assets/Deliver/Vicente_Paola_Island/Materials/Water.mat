@@ -37,7 +37,7 @@ Material:
     - _bias: 0.5
     - _distance: 20
     - _distortionWeight: 0.14
-    - _panner_speed: 0.05
+    - _panner_speed: 0.08
     - _pow: 0.9
     - _scale: 1
     m_Colors:

@@ -23,9 +23,9 @@ Material:
     m_Ints: []
     m_Floats:
     - __dirty: 0
-    - _energyStrength: 2
+    - _energyStrength: 1.5
     - _metallic: 3
-    - _pulseSpeed: 50
+    - _pulseSpeed: 20
     - _smoothness: 1.26
     m_Colors:
     - _bodyColor: {r: 0.20784314, g: 0.21960784, b: 0.37254903, a: 0}

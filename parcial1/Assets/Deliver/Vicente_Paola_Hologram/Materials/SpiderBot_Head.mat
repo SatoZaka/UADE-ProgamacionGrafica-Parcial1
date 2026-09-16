@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SpiderBot_Head
+  m_Shader: {fileID: 4800000, guid: 8fd63a80ecc67ce44812951a866f6569, type: 3}
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 1
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: []
+    m_Floats:
+    - __dirty: 0
+    - _albedoStrength: 0.25
+    - _fresnelPower: 1.96
+    - _glowStrength: 0.9
+    - _lineDensity: 80
+    - _lineGlow: 1
+    - _lineSpeed: 50
+    - _opacity: 1
+    m_Colors:
+    - _headColor: {r: 0.05540227, g: 0.7830189, b: 0.5011495, a: 0}
+  m_BuildTextureStacks: []
